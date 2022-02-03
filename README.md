@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @cvalle7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I´m Carlos 👋
 
-<!---
-cvalle7/cvalle7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+const cvalle7 = {
+  pronouns: "he" | "him",
+  code: [C, C++, Java, Javascript, PHP, HTML, CSS, Python],
+  tools: [Angular, Node, Symphony, Docker, NetBeans, Visual Studio, Visual Studio Code],
+  architecture: ["Api Rest", "microservices", "event-driven"]
+}
+```
+
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: cvb016@gmail.com
