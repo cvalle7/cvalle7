@@ -1,6 +1,7 @@
 ### Hi, I´m Carlos 👋
 
-```
+
+```python
 const cvalle7 = {
   pronouns: "he" | "him",
   code: [C, C++, Java, Javascript, PHP, HTML, CSS, Python],
@@ -9,5 +10,6 @@ const cvalle7 = {
 }
 ```
 
-- 🌱 I’m currently learning Python
+
+- 🌱 I´m currently learning Python
 - 📫 How to reach me: cvb016@gmail.com
