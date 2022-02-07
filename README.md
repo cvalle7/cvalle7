@@ -17,6 +17,15 @@ const cvalle7 = {
 
 ### Get in touch
 
-<a href="https://twitter.com/karlos_valle16" style="font-size:24px" class="fa">&#xf081;</a>
+
+<a href=""><img src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" width="21px"/></a>
+
+<a href=""><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="21px"/></a>
+
+<a href=""><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
+
+<a href="https://twitter.com/karlos_valle16" style="font-size:24px" class="fa">
+  ![image](https://user-images.githubusercontent.com/79222562/152835062-90a5f3e6-e7e5-4878-918c-30698f17c858.png)
+</a>
 
 - 📫 How to reach me: cvb016@gmail.com
