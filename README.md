@@ -1,6 +1,8 @@
 ### Hi, I´m Carlos 👋
 
-Software Enginner student at [Pontifical University of Salamanca](https://www.upsa.es/ "Pontifical University of Salamanca")
+Software Enginner student at [Pontifical University of Salamanca](https://www.upsa.es/ "Pontifical University of Salamanca") 🖥️
+
+### A little more about me 📚
 
 ```python
 const cvalle7 = {
