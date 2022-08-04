@@ -1,6 +1,6 @@
 ### Hi, I´m Carlos 👋
 
-Graduate software engineer by Pontifical University of Salamanca](https://www.upsa.es/ "Pontifical University of Salamanca") 🖥️
+Graduate software engineer by [Pontifical University of Salamanca](https://www.upsa.es/ "Pontifical University of Salamanca") 🖥️
 
 ### A little more about me 📚
 
