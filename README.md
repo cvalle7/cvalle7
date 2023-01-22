@@ -1,6 +1,7 @@
 ### Hi, I´m Carlos 👋
 
 Graduate software engineer by [Pontifical University of Salamanca](https://www.upsa.es/ "Pontifical University of Salamanca") 🖥️
+Cybersecurity student by [UNIR](https://www.unir.net/ "UNIR") 🔐🦠
 
 ### A little more about me 📚
 
