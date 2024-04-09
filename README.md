@@ -10,7 +10,7 @@ const cvalle7 = {
   pronouns: "he" | "him",
   languages: [C, C++, Java, Javascript, TypeScript, PHP, HTML, CSS, Python, SQL, NoSQL],
   tools: [Angular, Node, Symphony, Docker, NetBeans, Visual Studio, Visual Studio Code],
-  architecture: ["Api Rest", "microservices", "event-driven"],
+  architecture: ["Api Rest", "GraphQL", "microservices", "event-driven"],
   challenge: "I want to become an expert in development and cybersecurity"
 }
 ```
@@ -24,8 +24,3 @@ const cvalle7 = {
 <a href="https://www.linkedin.com/in/carlos-valle-bueno"><img src="https://github.com/cvalle7/imgs/blob/main/570628_link_linked%20in_linkedin_social_icon.png" width="30px"/></a>
 <a href="mailto:cvb016@gmail.com"><img src="https://github.com/cvalle7/imgs/blob/main/1220340_gmail_google_mail_icon.png" width="30px"/></a>
 </div>      
-
-
-
-
-
